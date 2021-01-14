@@ -45,9 +45,11 @@ EXAMPLE:-
 
 CODE:-
 
+```python
 import sendwhatsappmsg
 
 sendwhatsappmsg.sendmsgat("Hii Do you Know there is a awesome module named sendwhatsappmsg by which you can ssnd message to any mobile no.",20,25)
+```
 
 OUTPUT:-
 
