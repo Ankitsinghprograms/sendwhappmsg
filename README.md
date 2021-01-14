@@ -1,5 +1,9 @@
-# sendwhappmsg
-This is module which sends Whatsapp Message to any given Mobile no.
+# sendwhappmsg 
+
+[![Downloads](https://pepy.tech/badge/sendwhappmsg)](https://pepy.tech/project/sendwhappmsg)
+
+This is module which sends Whatsapp Message to any given Mobile no. 
+
 
 
 
